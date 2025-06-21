@@ -86,7 +86,7 @@ population_scraper/
 
 ## 💡 Author
 
-Made with ❤️ using Scrapy by [Your Name]
+Made with ❤️ using Scrapy by NNIIKKKKII
 
 ---
 
